@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamPedram1
+- 👋 Hi, I’m Pedram
 - 👀 I’m a frontend dev
 - 📫 How to reach me 
 - Gmail ==> Pedram.pps737@gmail.com
