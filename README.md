@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamPedram1
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning Nodejs to become a fullstack developer ...
+- 👀 I’m a frontend dev
 - 📫 How to reach me 
 - Gmail ==> Pedram.pps737@gmail.com
 - Telegram  ==> @iam_Pedram1
